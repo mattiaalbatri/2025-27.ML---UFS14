@@ -16,7 +16,7 @@ Poi si apre il notebook [deep_learning_draw.ipynb](deep_learning_draw.ipynb) ed 
 Il modello viene salvato in `exam/quickdraw/model.pth`.
 
 ## Spiegazione del progetto
-Il progetto prova a riconoscere 20 oggetti disegnati a mano a partire dalle bitmap del dataset QuickDraw. L’obiettivo è classificare correttamente il disegno tra categorie come `apple`, `airplane`, `cat`, `pizza` e altre simili.
+Il progetto prova a riconoscere degli oggetti disegnati a mano a partire dalle bitmap del dataset QuickDraw. L’obiettivo è classificare correttamente il disegno tra categorie come `apple`, `airplane`, `cat`, `pizza` e altre simili.
 
 Questo problema è stato scelto perché è abbastanza semplice da capire, ma comunque abbastanza interessante da mostrare una pipeline completa di deep learning: caricamento dati, preprocessing, training, validazione, salvataggio e riuso del modello.
 
